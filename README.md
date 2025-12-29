@@ -1,6 +1,6 @@
-<p align="center" dir="auto">
-# 👋 Hi there, I'm Thang Hoang (Cozy Hoang)
-</p>
+<h1 align="center">
+👋 Hi there, I'm Thang Hoang (Cozy Hoang)
+</h1>
 
 ---
 
