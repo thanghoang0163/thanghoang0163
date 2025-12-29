@@ -9,8 +9,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: thanghoang0163
+
+      - name: Commit and push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "profile-3d-contrib"
+          message: "chore: update 3D contribution graph"
