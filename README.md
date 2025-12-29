@@ -4,9 +4,25 @@
 
 ---
 
-## 👤 About Me
+## 🤝 Connect with Me
 
-- GitHub: **[thanghoang0163 (Thắng Hoàng)](https://github.com/thanghoang0163)**
+<p align="center">
+  <a href="https://www.facebook.com/hoanq.thanq" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="48" height="48" />
+  </a>
+  <a href="https://www.instagram.com/thanq_hoanq/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.threads.com/@thanq_hoanq" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/threads.svg" width="48" height="48" />
+  </a>
+  <a href="https://www.youtube.com/@thanghoang9091" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/youtube-play.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/thanqhoanq/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
