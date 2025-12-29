@@ -12,8 +12,8 @@
 
 ## 🚀 Current Work & Learning
 
-- Primary focus: Frontend development  
-- Main stack direction: React ecosystem  
+- Primary focus: Frontend development
+- Main stack direction: React ecosystem
 
 ---
 
@@ -30,18 +30,8 @@
 
 ---
 
-### 🐍 Contribution Animation
+### 🌌 Contribution Animation
 
 <p align="center" dir="auto">
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    href="https://github.com/doi2523/doi2523/blob/output/github-contribution-grid-snake.svg"
-  >
-    <img
-      src="https://github.com/doi2523/doi2523/raw/output/github-contribution-grid-snake.svg"
-      alt="Snake animation"
-      style="max-width: 100%;"
-    />
-  </a>
+  <img src="https://raw.githubusercontent.com/thanghoang0163/thanghoang0163/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
