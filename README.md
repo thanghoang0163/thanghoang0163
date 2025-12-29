@@ -22,7 +22,7 @@
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
     <img
-      src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,firebase,vite,postgres,vercel,npm,postman,vscode&perline=8&theme=light"
+      src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,mysql,vscode,postman&perline=8&theme=light"
       style="max-width: 100%;"
     />
   </a>
