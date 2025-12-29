@@ -1,12 +1,12 @@
+<p align="center" dir="auto">
 # 👋 Hi there, I'm Thang Hoang (Cozy Hoang)
-
-**GitHub Profile README**
+</p>
 
 ---
 
 ## 👤 About Me
 
-- GitHub: **thanghoang0163 (Thắng Hoàng)** 
+- GitHub: **[thanghoang0163 (Thắng Hoàng)](https://github.com/thanghoang0163)**
 
 ---
 
@@ -22,7 +22,7 @@
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
     <img
-      src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,mysql,vscode,postman&perline=8&theme=light"
+      src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nextjs,nodejs,mysql,postman,vscode&perline=8&theme=light"
       style="max-width: 100%;"
     />
   </a>
