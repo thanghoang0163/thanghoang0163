@@ -4,10 +4,10 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@thanghoang9091" target="_blank">
+  <a href="https://www.youtube.com/@thanq_hoanq" target="_blank">
     <img src="https://img.icons8.com/color/48/youtube-play.png" />
   </a>
   <a href="https://www.facebook.com/hoanq.thanq" target="_blank">
