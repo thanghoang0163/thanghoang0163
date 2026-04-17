@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" size="10">
 👋 Hi there, I'm Thang Hoang (Cozy Hoang)
 </h1>
 
@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
@@ -46,7 +46,22 @@
 
 ---
 
-### 🌌 Contribution Animation
+## 📊 Stack
+
+<table style="width:100%; border:none; border-collapse:collapse;">
+  <tr>
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanghoang0163&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Most%20Used%20Languages" width="100%"/>
+    </td>
+    <td style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=thanghoang0163&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=%20Github%20Stats" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌌 Contribution Animation
 
 <p align="center" dir="auto">
   <img src="https://raw.githubusercontent.com/thanghoang0163/thanghoang0163/main/profile-3d-contrib/profile-night-rainbow.svg" />
